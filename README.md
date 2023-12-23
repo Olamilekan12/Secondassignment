@@ -1,1 +1,1 @@
-live link deployed on github pages: https://github.com/Olamilekan12/Secondassignment
+live link deployed on github pages: https://olamilekan12.github.io/Secondassignment/
